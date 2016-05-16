@@ -1,3 +1,1 @@
-git is version control system.
-git is free software
-hello 
+this is my json class
